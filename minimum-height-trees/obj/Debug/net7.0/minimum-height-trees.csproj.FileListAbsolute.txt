@@ -1,0 +1,14 @@
+D:\Repositories\Leetcode-repo\minimum-height-trees\minimum-height-trees\obj\Debug\net7.0\minimum-height-trees.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Leetcode-repo\minimum-height-trees\minimum-height-trees\obj\Debug\net7.0\minimum-height-trees.AssemblyInfoInputs.cache
+D:\Repositories\Leetcode-repo\minimum-height-trees\minimum-height-trees\obj\Debug\net7.0\minimum-height-trees.AssemblyInfo.cs
+D:\Repositories\Leetcode-repo\minimum-height-trees\minimum-height-trees\obj\Debug\net7.0\minimum-height-trees.csproj.CoreCompileInputs.cache
+D:\Repositories\Leetcode-repo\minimum-height-trees\minimum-height-trees\bin\Debug\net7.0\minimum-height-trees.exe
+D:\Repositories\Leetcode-repo\minimum-height-trees\minimum-height-trees\bin\Debug\net7.0\minimum-height-trees.deps.json
+D:\Repositories\Leetcode-repo\minimum-height-trees\minimum-height-trees\bin\Debug\net7.0\minimum-height-trees.runtimeconfig.json
+D:\Repositories\Leetcode-repo\minimum-height-trees\minimum-height-trees\bin\Debug\net7.0\minimum-height-trees.dll
+D:\Repositories\Leetcode-repo\minimum-height-trees\minimum-height-trees\bin\Debug\net7.0\minimum-height-trees.pdb
+D:\Repositories\Leetcode-repo\minimum-height-trees\minimum-height-trees\obj\Debug\net7.0\minimum-height-trees.dll
+D:\Repositories\Leetcode-repo\minimum-height-trees\minimum-height-trees\obj\Debug\net7.0\refint\minimum-height-trees.dll
+D:\Repositories\Leetcode-repo\minimum-height-trees\minimum-height-trees\obj\Debug\net7.0\minimum-height-trees.pdb
+D:\Repositories\Leetcode-repo\minimum-height-trees\minimum-height-trees\obj\Debug\net7.0\minimum-height-trees.genruntimeconfig.cache
+D:\Repositories\Leetcode-repo\minimum-height-trees\minimum-height-trees\obj\Debug\net7.0\ref\minimum-height-trees.dll
