@@ -1,7 +1,7 @@
 # Intuition
 To find the minimum height trees (MHTs) in a given tree, we need to identify the root nodes that produce the smallest height when the tree is rooted at them. The key observation is that the height of the tree is determined by its most distant leaves (nodes with only one connection). Therefore, by iteratively trimming the leaves, we can progressively reduce the tree until we find the root nodes that minimize the height.
 
-$ Approach
+# Approach
 1. Graph Representation: Create an adjacency list representation of the graph using the input edges. This list will store the connections (edges) between nodes.
 2. Identify Initial Leaves: Initialize a list of leaves (nodes with only one neighbor) from the graph.
 3. Trim Leaves Iteratively: Iteratively remove the leaves from the graph, and in the process, adjust the degrees of their neighboring nodes. Add any new leaves (nodes with one neighbor) to a new list.
